@@ -1,0 +1,28 @@
+{
+	"name": "tomorrow-night-burns",
+	"displayName": "Tomorrow Night Burns",
+	"version": "1.0.0",
+	"publisher": "alistair",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/alii/tomorrow-night-burns"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tomorrow Night Burns",
+				"uiTheme": "vs-dark",
+				"path": "./tomorrow-night-burns-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 5559
+	}
+}
