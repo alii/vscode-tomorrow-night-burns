@@ -61,7 +61,18 @@
 		"tab.activeBorder": "#151515",
 		"tab.activeBorderTop": "#202020",
 		"editorGroupHeader.tabsBackground": "#151515",
-		"editorGroupHeader.tabsBorder": "#151515"
+		"editorGroupHeader.tabsBorder": "#151515",
+
+		"editorSuggestWidget.background": "#202020",
+		"editorSuggestWidget.border": "#252525",
+		"editorSuggestWidget.foreground": "#a1b0b8",
+		"editorSuggestWidget.selectedBackground": "#252525",
+		"editorSuggestWidget.selectedForeground": "#f5f5f5",
+		"editorSuggestWidget.highlightForeground": "#fc595f",
+		"editorHoverWidget.background": "#202020",
+		"editorHoverWidget.border": "#252525",
+		"editorHoverWidget.foreground": "#a1b0b8",
+		"editorHoverWidget.statusBarBackground": "#252525"
 	},
 	"tokenColors": [
 		{
