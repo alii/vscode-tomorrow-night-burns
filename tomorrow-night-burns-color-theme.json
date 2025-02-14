@@ -6,7 +6,7 @@
 		"editor.foreground": "#a1b0b8",
 		"editor.selectionBackground": "#74652580",
 		"editor.selectionForeground": "#171917",
-		"editorCursor.foreground": "#ff443e",
+		"editorCursor.foreground": "#838383",
 		"terminal.ansiBlack": "#252525",
 		"terminal.ansiBlue": "#fc595f",
 		"terminal.ansiBrightBlack": "#5d6f71",
@@ -62,7 +62,6 @@
 		"tab.activeBorderTop": "#202020",
 		"editorGroupHeader.tabsBackground": "#151515",
 		"editorGroupHeader.tabsBorder": "#151515",
-
 		"editorSuggestWidget.background": "#202020",
 		"editorSuggestWidget.border": "#252525",
 		"editorSuggestWidget.foreground": "#a1b0b8",
